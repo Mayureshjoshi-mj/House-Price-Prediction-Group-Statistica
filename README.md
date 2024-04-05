@@ -33,3 +33,5 @@ This data science project series walks through step by step process of how to bu
 -	Mean, Standard deviation and Basic Statistics
 -	Correlation, Histogram, Scatterplot, Barplot
 
+![Prediction of Price]()
+
