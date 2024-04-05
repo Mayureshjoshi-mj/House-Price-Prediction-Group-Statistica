@@ -7,11 +7,11 @@
 - 231080056 – MAYURESH MANDAR JOSHI
 - 231080042 – HEMANT SANJAY NIKHADE
 - 231080109 - VADTHYA VISHNU VARDHAN
-- 231080082 - Shivam Chaurasiya
-- 220565    - Kunal Dayama
+- 231080082 - SHIVAM CHAURASIYA
+- 220565    - KUNAL DAYMA
                 
 # Acknowledgement
-We are grateful to our professor, Dr. Subhajit Dutta, for giving us the opportunity to work on the Data Science project on “House Price Prediction”. With Dr. Subhajit Dutta guidance, we were able to complete the project on time and with our best efforts. This experience has been incredible for our team, allowing us to learn and work together collaborately.
+**We are grateful to our professor, ***Dr. Subhajit Dutta***, for giving us the opportunity to work on the Data Science project on ***“House Price Prediction”***. With Dr. Subhajit Dutta guidance, we were able to complete the project on time and with our best efforts. This experience has been incredible for our team, allowing us to learn and work together collaborately.**
 
 This data science project series walks through step by step process of how to build a real estate price prediction website. We will first build a model using sklearn and linear regression using banglore home prices dataset from kaggle.com. Second step would be to write a python flask server that uses the saved model to serve http requests. Third component is the website built in html, css and javascript that allows user to enter home square ft area, bedrooms etc and it will call python flask server to retrieve the predicted price. During model building we will cover almost all data science concepts such as data load and cleaning, outlier detection and removal, feature engineering, dimensionality reduction, gridsearchcv for hyperparameter tunning, k fold cross validation etc. Technology and tools wise this project covers,
 
